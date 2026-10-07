@@ -85,7 +85,7 @@ Last-Era/
 
 ## </> Developers
 
-**Developed by [Raed Mosaed](https://github.com/raedmosaed0) & [Ahmed Tarek](https://github.com/midotarek14)**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0) & [Ahmed Tarek](https://github.com/midotarek14)**
 
 ---
 
